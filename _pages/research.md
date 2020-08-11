@@ -1,7 +1,7 @@
 ---
 title: "Emile Gluck-Thaler ~ Research"
 layout: textlay
-excerpt: "Emile Gluck-Thaler ~~ Research"
+excerpt: "Emile Gluck-Thaler ~ Research"
 sitemap: false
 permalink: /research/
 ---
