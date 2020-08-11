@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Emile Gluck-Thaler ~ Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Emile Gluck-Thaler ~~ Research"
 sitemap: false
 permalink: /research/
 ---
