@@ -19,7 +19,7 @@
   news2:
 
 - title: "The Architecture of Metabolism Maximizes Biosynthetic Diversity in the Largest Class of Fungi"
-  image: dotSM.png
+  image: dotSM1.png
   description:
   authors: E Gluck-Thaler, S Haridas, M Binder, IV Grigoriev, PW Crous, JW Spatafora, K Bushley, JC Slot
   link:
@@ -48,6 +48,25 @@
   highlight:
   news2:
 
+- title: "Whole-Genome Sequence of the Phlox Powdery Mildew Pathogen Golovinomyces magnicellulatus Strain FPH2017-1"
+  image: phlox.png
+  description:
+  authors: C Farinas, E Gluck-Thaler, JC Slot, FP Hand
+  link:
+    url: https://mra.asm.org/content/8/36/e00852-19.abstract
+    display:  Microbiology resource announcements 8 (2019)
+  highlight:
+  news2:
+
+- title: "Fungal adaptation to plant defences through convergent assembly of metabolic modules"
+  image: sco.png
+  description:
+  authors: E Gluck‐Thaler\*, V Vijayakumar\*, JC Slot
+  link:
+    url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.14943
+    display:  Molecular ecology 27 (2018)
+  highlight:
+  news2:
 
 
 
