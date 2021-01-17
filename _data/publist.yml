@@ -1,7 +1,7 @@
 - title: "The Canadian Fungal Research Network: current challenges and future opportunities"
   image: canfunnet_logo.png
   description:
-  authors: Linda C Horianopoulos\*, Emile Gluck-Thaler\*, Isabelle Benoit Gelber, Leah E Cowen, Jennifer Geddes-McAlister, Christian R Landry, Ilan S Schwartz, James A Scott, Adnane Sellam, Donald C Sheppard, Toby Spribille, Rajagopal Subramaniam, Allison K Walker, Steven D Harris, Rebecca S Shapiro, Aleeza C Gerstein
+  authors: LC Horianopoulos\*, E Gluck-Thaler\*, I Benoit Gelber, LE Cowen, J Geddes-McAlister, CR Landry, IS Schwartz, JA Scott, A Sellam, DC Sheppard, T Spribille, R Subramaniam, AK Walker, SD Harris, RS Shapiro, AC Gerstein
   link: 
     url: https://cdnsciencepub.com/doi/full/10.1139/cjm-2020-0263
     display:  Canadian Journal of Microbiology 67.1 (2021)
@@ -9,11 +9,31 @@
   news2:
 
 - title: "Repeated gain and loss of a single gene modulates the evolution of vascular plant pathogen lifestyles"
-  image:
+  image: cbsA_summary.png
   description:
-  authors: Emile Gluck-Thaler\*, Aude Cerutti\*, Alvaro L Perez-Quintero\*, Jules Butchacas, Verónica Roman-Reyna, Vishnu Narayanan Madhavan, Deepak Shantharaj, Marcus V Merfa, Céline Pesce, Alain Jauneau, Taca Vancheva, Jillian M Lang, Caitilyn Allen, Valerie Verdier, Lionel Gagnevin, Boris Szurek, Gregg T Beckham, Leonardo De La Fuente, Hitendra Kumar Patel, Ramesh V Sonti, Claude Bragard, Jan E Leach, Laurent D Noël, Jason C Slot, Ralf Koebnik, Jonathan M Jacobs
+  authors: E Gluck-Thaler\*, A Cerutti\*, AL Perez-Quintero\*, J Butchacas, V Roman-Reyna, V Narayanan Madhavan, D Shantharaj, MV Merfa, C Pesce, A Jauneau, T Vancheva, JM Lang, C Allen, V Verdier, L Gagnevin, B Szurek, GT Beckham, L De La Fuente, H Kumar Patel, RV Sonti, C Bragard, JE Leach, LD Noël, JC Slot, R Koebnik, JM Jacobs
   link:
     url: https://advances.sciencemag.org/content/6/46/eabc4516?utm_campaign=toc_advances_2020-11-13&et_rid=154055526&et_cid=3558120
     display:  Science advances 6.46 (2020)
+  highlight:
+  news2:
+
+- title: "The Architecture of Metabolism Maximizes Biosynthetic Diversity in the Largest Class of Fungi"
+  image: dotSM.png
+  description:
+  authors: E Gluck-Thaler, S Haridas, M Binder, IV Grigoriev, PW Crous, JW Spatafora, K Bushley, JC Slot
+  link:
+    url: https://academic.oup.com/mbe/article/37/10/2838/5839751
+    display:  Molecular Biology and Evolution 37 (2020)
+  highlight:
+  news2:
+
+- title: "The Architecture of Metabolism Maximizes Biosynthetic Diversity in the Largest Class of Fungi"
+  image: dotSM.png
+  description:
+  authors: E Gluck-Thaler, S Haridas, M Binder, IV Grigoriev, PW Crous, JW Spatafora, K Bushley, JC Slot
+  link:
+    url: https://academic.oup.com/mbe/article/37/10/2838/5839751
+    display:  Molecular Biology and Evolution 37 (2020)
   highlight:
   news2:
