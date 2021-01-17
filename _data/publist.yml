@@ -59,7 +59,7 @@
   news2:
 
 - title: "Fungal adaptation to plant defences through convergent assembly of metabolic modules"
-  image: sco.png
+  image: scoAlt.png
   description:
   authors: E Gluck‐Thaler\*, V Vijayakumar\*, JC Slot
   link:
@@ -68,6 +68,35 @@
   highlight:
   news2:
 
+- title: "Specialized plant biochemistry drives gene clustering in fungi"
+  image: pdc.png
+  description:
+  authors: E Gluck-Thaler, JC Slot
+  link:
+    url: https://www.nature.com/articles/s41396-018-0075-3
+    display:  The ISME Journal 12 (2018)
+  highlight:
+  news2:
+
+- title: "Horizontal gene cluster transfer increased hallucinogenic mushroom diversity"
+  image: psilocybinHGT.png
+  description:
+  authors: HT Reynolds\*, V Vijayakumar\*, E Gluck‐Thaler\*, HB Korotkin, PB Matheny, JC Slot
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.42
+    display:  Evolution Letters 2.2 (2018)
+  highlight:
+  news2:
+
+- title: "Horizontal gene cluster transfer increased hallucinogenic mushroom diversity"
+  image: psilocybinHGT.png
+  description:
+  authors: HT Reynolds\*, V Vijayakumar\*, E Gluck‐Thaler\*, HB Korotkin, PB Matheny, JC Slot
+  link:
+    url: https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.42
+    display:  Evolution Letters 2.2 (2018)
+  highlight:
+  news2:
 
 
 
