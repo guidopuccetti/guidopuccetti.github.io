@@ -59,7 +59,7 @@
   news2:
 
 - title: "Fungal adaptation to plant defences through convergent assembly of metabolic modules"
-  image: scoAlt.png
+  image: sco.png
   description:
   authors: E Gluck‐Thaler\*, V Vijayakumar\*, JC Slot
   link:
@@ -88,16 +88,26 @@
   highlight:
   news2:
 
-- title: "Horizontal gene cluster transfer increased hallucinogenic mushroom diversity"
-  image: psilocybinHGT.png
+- title: "Genes of the de novo and Salvage Biosynthesis Pathways of Vitamin B6 are Regulated under Oxidative Stress in the Plant Pathogen Rhizoctonia solani"
+  image: rhizoc.png
   description:
-  authors: HT Reynolds\*, V Vijayakumar\*, E Gluck‐Thaler\*, HB Korotkin, PB Matheny, JC Slot
+  authors: J Samsatly, R Chamoun, E Gluck-Thaler, S Jabaji
   link:
-    url: https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.42
-    display:  Evolution Letters 2.2 (2018)
+    url: https://www.frontiersin.org/articles/10.3389/fmicb.2015.01429/full
+    display:  Frontiers in microbiology 6 (2016)
   highlight:
   news2:
 
+
+- title: "Dimensions of Horizontal Gene Transfer in Eukaryotic Microbial Pathogens"
+  image: dimensions.png
+  description:
+  authors: E Gluck-Thaler, JC Slot
+  link:
+    url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005156
+    display:  PLoS Pathogens 11 (2015)
+  highlight:
+  news2:
 
 
 
