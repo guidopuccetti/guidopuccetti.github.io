@@ -15,7 +15,7 @@ See below for a full list, or go to [Google Scholar](https://scholar.google.com/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.image }} <br />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" /><br />
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
