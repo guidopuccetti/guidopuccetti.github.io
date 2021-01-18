@@ -12,7 +12,6 @@ permalink: /publications/
 See below for a full list, or go to [Google Scholar](https://scholar.google.com/citations?user=0CQpHksAAAAJ&hl=en&oi=ao)
 
 <p> &nbsp; </p>
-
 {% for publi in site.data.publist %}
 
   <img src="{{ site.url }}{{ site.baseurl }}/images/publications/{{ publi.image }}" class="img-responsive" height="110px" width="85px" style="float: left" /><br />
