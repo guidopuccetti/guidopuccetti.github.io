@@ -6,7 +6,7 @@
     url: https://cdnsciencepub.com/doi/full/10.1139/cjm-2020-0263
     display:  Canadian Journal of Microbiology 67.1 (2021)
   highlight:
-  news2:
+  news1:
 
 - title: "Repeated gain and loss of a single gene modulates the evolution of vascular plant pathogen lifestyles"
   image: cbsA.png
@@ -16,7 +16,7 @@
     url: https://advances.sciencemag.org/content/6/46/eabc4516?utm_campaign=toc_advances_2020-11-13&et_rid=154055526&et_cid=3558120
     display:  Science Advances 6.46 (2020)
   highlight:
-  news2:
+  news1:
 
 - title: "The Architecture of Metabolism Maximizes Biosynthetic Diversity in the Largest Class of Fungi"
   image: dotSM1.png
@@ -26,7 +26,7 @@
     url: https://academic.oup.com/mbe/article/37/10/2838/5839751
     display:  Molecular Biology and Evolution 37 (2020)
   highlight:
-  news2:
+  news1:
 
 - title: "Metabolic gene clusters, fungal diversity, and the generation of accessory functions"
   image: COGD.png
@@ -36,7 +36,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S0959437X19300450
     display:  Current Opinion in Genetics & Development 58-59 (2019)
   highlight:
-  news2:
+  news1:
 
 - title: "Psychoactive plant- and mushroom-associated alkaloids from two behavior modifying cicada pathogens"
   image: cicada.png
@@ -46,7 +46,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S1754504819300352#!
     display:  Fungal Ecology 41 (2019)
   highlight:
-  news2:
+  news1:
 
 - title: "Whole-Genome Sequence of the Phlox Powdery Mildew Pathogen Golovinomyces magnicellulatus Strain FPH2017-1"
   image: phlox.png
@@ -56,7 +56,7 @@
     url: https://mra.asm.org/content/8/36/e00852-19.abstract
     display:  Microbiology Resource Announcements 8 (2019)
   highlight:
-  news2:
+  news1:
 
 - title: "Fungal adaptation to plant defences through convergent assembly of metabolic modules"
   image: sco.png
@@ -66,7 +66,7 @@
     url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.14943
     display:  Molecular Ecology 27 (2018)
   highlight:
-  news2:
+  news1:
 
 - title: "Specialized plant biochemistry drives gene clustering in fungi"
   image: pdc2.png
@@ -76,7 +76,7 @@
     url: https://www.nature.com/articles/s41396-018-0075-3
     display:  The ISME Journal 12 (2018)
   highlight:
-  news2:
+  news1:
 
 - title: "Horizontal gene cluster transfer increased hallucinogenic mushroom diversity"
   image: pancy.png
@@ -86,7 +86,7 @@
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.42
     display:  Evolution Letters 2.2 (2018)
   highlight:
-  news2:
+  news1: Featured by <a href="https://www.theatlantic.com/science/archive/2017/08/how-mushrooms-became-magic/537789/">Ed Yong in The Atlantic</a> and by <a href="https://www.merlinsheldrake.com/entangled-life">Merlin Sheldrake in "Entangled Life"</a>
 
 - title: "Genes of the de novo and Salvage Biosynthesis Pathways of Vitamin B6 are Regulated under Oxidative Stress in the Plant Pathogen Rhizoctonia solani"
   image: rhizoc.png
@@ -96,7 +96,7 @@
     url: https://www.frontiersin.org/articles/10.3389/fmicb.2015.01429/full
     display:  Frontiers in Microbiology 6 (2016)
   highlight:
-  news2:
+  news1:
 
 
 - title: "Dimensions of Horizontal Gene Transfer in Eukaryotic Microbial Pathogens"
@@ -107,7 +107,7 @@
     url: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1005156
     display:  PLoS Pathogens 11 (2015)
   highlight:
-  news2:
+  news1:
 
 
 
