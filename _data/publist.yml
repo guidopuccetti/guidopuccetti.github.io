@@ -26,7 +26,7 @@
     url: https://academic.oup.com/mbe/article/37/10/2838/5839751
     display:  Molecular Biology and Evolution 37 (2020)
   highlight:
-  news1: <a style="color:#FF0000" >Recipient of the Elsevier Award for Outstanding Poster in the Genomics Theme at the 11th International Mycological Congress (2018)</a>
+  news1: <a style="color:#FF0000" >Awarded Outstanding Poster in the Genomics Theme at the 11th International Mycological Congress (2018)</a>
 
 - title: "Metabolic gene clusters, fungal diversity, and the generation of accessory functions"
   image: COGD.png
@@ -46,7 +46,7 @@
     url: https://www.sciencedirect.com/science/article/pii/S1754504819300352#!
     display:  Fungal Ecology 41 (2019)
   highlight:
-  news1: Featured in an article by <a style="color:#FF0000; text-decoration:underline" href="https://www.theatlantic.com/science/archive/2018/07/massospora-parasite-drugs-its-hosts/566324/">Ed Yong in The Atlantic</a> and in <a style="color:#FF0000; text-decoration:underline" href="https://www.merlinsheldrake.com/entangled-life">Merlin Sheldrake's "Entangled Life"</a>
+  news1: Featured in an article by <a style="color:#FF0000; text-decoration:underline" href="https://www.theatlantic.com/science/archive/2018/07/massospora-parasite-drugs-its-hosts/566324/">Ed Yong in The Atlantic</a> <a style="color:#FF0000>and in</a> <a style="color:#FF0000; text-decoration:underline" href="https://www.merlinsheldrake.com/entangled-life">Merlin Sheldrake's "Entangled Life"</a>
 
 - title: "Whole-Genome Sequence of the Phlox Powdery Mildew Pathogen Golovinomyces magnicellulatus Strain FPH2017-1"
   image: phlox.png
@@ -86,7 +86,7 @@
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.42
     display:  Evolution Letters 2.2 (2018)
   highlight:
-  news1: Featured in an article by <a style="color:#FF0000; text-decoration:underline" href="https://www.theatlantic.com/science/archive/2017/08/how-mushrooms-became-magic/537789/">Ed Yong in The Atlantic</a> and in <a style="color:#FF0000; text-decoration:underline" href="https://www.merlinsheldrake.com/entangled-life">Merlin Sheldrake's "Entangled Life"</a>
+  news1: Featured in an article by <a style="color:#FF0000; text-decoration:underline" href="https://www.theatlantic.com/science/archive/2017/08/how-mushrooms-became-magic/537789/">Ed Yong in The Atlantic</a> <a style="color:#FF0000>and in</a> <a style="color:#FF0000; text-decoration:underline" href="https://www.merlinsheldrake.com/entangled-life">Merlin Sheldrake's "Entangled Life"</a>
 
 - title: "Genes of the de novo and Salvage Biosynthesis Pathways of Vitamin B6 are Regulated under Oxidative Stress in the Plant Pathogen Rhizoctonia solani"
   image: rhizoc.png
