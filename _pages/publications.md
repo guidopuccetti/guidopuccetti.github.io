@@ -17,6 +17,6 @@ See below for a full annotated list, or visit [Google Scholar](https://scholar.g
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a><br />
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <a class="text-danger"><strong> {{ publi.news1 }}</strong></a>
 
 {% endfor %}

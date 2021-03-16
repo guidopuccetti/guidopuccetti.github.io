@@ -86,7 +86,7 @@
     url: https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.42
     display:  Evolution Letters 2.2 (2018)
   highlight:
-  news1: Featured by <a href="https://www.theatlantic.com/science/archive/2017/08/how-mushrooms-became-magic/537789/">Ed Yong in The Atlantic</a> and by <a href="https://www.merlinsheldrake.com/entangled-life">Merlin Sheldrake in "Entangled Life"</a>
+  news1: Featured by <a style="color:#FF0000; text-decoration:underline"" href="https://www.theatlantic.com/science/archive/2017/08/how-mushrooms-became-magic/537789/">Ed Yong in The Atlantic</a> and by <a style="color:#FF0000; text-decoration:underline"" href="https://www.merlinsheldrake.com/entangled-life">Merlin Sheldrake in "Entangled Life"</a>
 
 - title: "Genes of the de novo and Salvage Biosynthesis Pathways of Vitamin B6 are Regulated under Oxidative Stress in the Plant Pathogen Rhizoctonia solani"
   image: rhizoc.png
