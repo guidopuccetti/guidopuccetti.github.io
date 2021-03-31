@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-See below for a full annotated list, or visit [Google Scholar](https://scholar.google.com/citations?user=0CQpHksAAAAJ&hl=en&oi=ao)
+See below for an annotated list, or visit [Google Scholar](https://scholar.google.com/citations?user=0CQpHksAAAAJ&hl=en&oi=ao)
 <p> &nbsp; </p>
 {% for publi in site.data.publist %}
 
