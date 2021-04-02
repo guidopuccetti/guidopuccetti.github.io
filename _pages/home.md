@@ -8,7 +8,7 @@ permalink: /
 
 ![]({{ site.url }}{{ site.baseurl }}/images/home/headshot.jpg){: style="width: 300px; float: right; border: 100px; padding:25px"}
 
-I am a mycologist and evolutionary biologist who studies the genomic bases of adaptation. My research aims to understand how organisms evolve as integrated wholes despite experiencing different selection pressures over the course of their life. To answer this question, I use a combination of molecular, manipulative and computational approaches.
+I am a mycologist and evolutionary biologist who studies the genomic bases of adaptation. My research aims to understand the genetic processes that enable organisms to evolve as integrated wholes despite experiencing different selection pressures over the course of their life. To answer this question, I use a combination of molecular, manipulative and computational approaches.
 
 As a Presidential Fellow and FRQNT Doctoral Scholar at the Ohio State University working with [Jason C. Slot](https://u.osu.edu/slot.1/), I developed phylogenetic-based algorithms for studying the modularization of fungal genome architecture in response to selection by different plant defense compounds. Since graduating, I have been working as a Postdoctoral Researcher with [Corlett W. Wood](https://www.the-wood-lab.net/) at the Universities of Pittsburgh and Pennsylvania to investigate the evolutionary consequences of genetic trade-offs in multi-species interactions. I will continue developing these research themes beginning in September 2021 as a Marie Skłodowska-Curie Fellow with [Daniel Croll](http://www.pathogen-genomics.org/) at the University of Neuchâtel by determining how genetic and environmental constraints together shape fungal evolution.
 
