@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/home/headshot.jpg){: style="width: 300px; float: right; border: 100px; padding:25px"}
+![]({{ site.url }}{{ site.baseurl }}/images/home/headshot.png){: style="width: 400px; float: right; border: 100px; padding:25px"}
 
 I am a mycologist and evolutionary biologist broadly interested in understanding the ecological causes and consequences of evolutionary change. To this end, I have two major research goals: determining the genetic bases of ecological adaptation, and evaluating the impact of ecological adaptation on the evolution of genes and genomes. I integrate hypothesis-driven molecular, manipulative, and computational experiments in a variety of organisms, especially in fungi. 
 
