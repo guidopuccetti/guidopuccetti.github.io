@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/home/headshot.jpg){: style="width: 350px; float: right; border: 100px; padding:25px"}
-
 ### About me
+
+![]({{ site.url }}{{ site.baseurl }}/images/home/headshot.jpg){: style="width: 350px; float: right; border: 100px; padding:25px"}
 
 I am a mycologist, evolutionary biologist and genome scientist. I integrate molecular, manipulative, and computational experiments to investigate the causes and consequences of structural variation in genomes. I am particularly interested in understanding the role of structural variation in facilitating and constraining species interactions. I work with taxonomically diverse fungi, mostly plant pathogens and endophytes, and have also forged ongoing collaborations in bacterial and plant systems. 
 

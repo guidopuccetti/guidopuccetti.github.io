@@ -8,7 +8,6 @@ permalink: /service/
 
 ### Mentorship and service
 
-
 ![]({{ site.url }}{{ site.baseurl }}/images/research/canfunnet.png){: style="width: 200px; float: right; border: 20px; padding:5px"}
 
 I believe that anyone can be a successful scientist, irrespective of background or identity. I have worked as a career coach through the [ScholarMatch program](https://scholarmatch.org/), whose mission is to support first-generation college students to earn a bachelor's degree. I have also worked as a mentor with the University of Pittsburgh's [Gene Team outreach summer program](https://www.biology.pitt.edu/k-12-outreach/gene-team) for high school students, and as a mentor in the University of Pennsylvania's FERBS program whose goal is to support students from underrepresented groups transition into undergraduate biology programs.
