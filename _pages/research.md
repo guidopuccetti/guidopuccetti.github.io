@@ -38,7 +38,8 @@ Microbial symbionts like bacteria and fungi are typically studied during interac
 
 ### Supergenes and the evolution of chemical ecology
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/scoPathways.png){: style="width: 650px; float: right; border: 25px; padding:25px"}
-
 Specialized metabolic pathways are critical mediators of species interactions. For example, bacteria and fungi produce and degrade myriad chemicals that act as signals, deterrents and toxins promoting and inhibiting symbiosis. Characterizing metabolic traits and the means through which they evolve therefore provides novel insight into ecological adaptation. However, connecting genotypes to chemical phenotypes is notoriously difficult. A curious feature of many specialized pathways is that the genes encoding these traits are often co-localized in genomes as ['supergenes' or metabolic gene clusters](https://www.sciencedirect.com/science/article/pii/S0959437X19300450). For my PhD, I leveraged this insight to develop novel cluster detection algorithms for investigating the genetic bases of specialized pathways, like [the degradation of plant defense compounds](https://www.nature.com/articles/s41396-018-0075-3), [the synthesis of secondary metabolites](https://academic.oup.com/mbe/article/37/10/2838/5839751), and [the production of fungal psychoactive compounds](https://www.sciencedirect.com/science/article/pii/S1754504819300352#!). Through additional molecular work, I found evidence that [fungal adaptation to plant defense compounds occurs primarily through convergent cluster assembly](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mec.14943), as opposed to novel enzymatic functions, highlighting the importance of combinatorial evolution in shaping host-microbe interactions.
+
+![]({{ site.url }}{{ site.baseurl }}/images/research/scoPathways.png){: style="width: 750px; float: center; border: 25px; padding:25px"}
+
 
