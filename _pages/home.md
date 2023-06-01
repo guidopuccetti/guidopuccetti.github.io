@@ -8,7 +8,7 @@ permalink: /
 
 ### About me
 
-![]({{ site.url }}{{ site.baseurl }}/images/home/Screenshot 2023-05-31 at 13.56.23.png){: style="width: 350px; float: right; border: 100px; padding:25px"}
+![]({{ site.url }}{{ site.baseurl }}/images/home/Screenshot_20191111-093350.png){: style="width: 350px; float: right; border: 100px; padding:25px"}
 
 I am molecular biologist passionate in evolutionary biology and bioinformatics. I integrate bioinformatics with phenomics and molecular experiments to investigate the causes and consequences of phenotypic variation. I am particularly interested in understanding the role of fungicide resistance adaptation to different fungicides classes. 
 
