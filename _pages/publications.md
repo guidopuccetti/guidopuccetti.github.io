@@ -1,5 +1,5 @@
 ---
-title: "Emile Gluck-Thaler ~ Publications"
+title: "Guido Puccetti ~ Publications"
 layout: gridlay
 excerpt: "Emile Gluck-Thaler ~~ Publications."
 sitemap: false
@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-See below for an annotated list, or visit [Google Scholar](https://scholar.google.com/citations?user=0CQpHksAAAAJ&hl=en&oi=ao)
+See below for an annotated list, or visit [Google Scholar](https://scholar.google.ch/citations?hl=it&user=9gMz-LgAAAAJ)
 <p> &nbsp; </p>
 {% for publi in site.data.publist %}
 
