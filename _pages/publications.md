@@ -1,7 +1,7 @@
 ---
 title: "Guido Puccetti ~ Publications"
 layout: gridlay
-excerpt: "Emile Gluck-Thaler ~~ Publications."
+excerpt: "Guido Puccetti ~~ Publications."
 sitemap: false
 permalink: /publications/
 ---
