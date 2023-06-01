@@ -13,6 +13,22 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: ""
 url: ""
 
+#####################################
+# --- Footer social media links --- #
+#####################################
+
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+social-network-links:
+  email: "someone@example.com"
+  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
+
+
 include:
   - .htaccess
   - _pages
