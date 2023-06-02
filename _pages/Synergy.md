@@ -3,7 +3,7 @@ title: "Guido Puccetti ~ Synergy"
 layout: textlay
 excerpt: "Guido Puccetti ~ Synergy"
 sitemap: false
-permalink: /Scientific interest/
+permalink: /Synergy/
 ---
 
 ### The Synergy of Molecular Biology and Bioinformatics: Phenomic Relevance
