@@ -8,7 +8,7 @@ permalink: /Synergy/
 
 ### The Synergy of Molecular Biology and Bioinformatics: Phenomic Relevance
 
-![]({{ site.url }}{{ site.baseurl }}/images/research/canfunnet.png){: style="width: 300px; float: right; border: 25px; padding:25px"}
+![]({{ site.url }}{{ site.baseurl }}//images/home/Screenshot 2023-06-02 at 10.15.21.png){: style="width: 300px; float: right; border: 25px; padding:25px"}
 
 A molecular biologist armed with a profound understanding of bioinformatics possesses a significant advantage in today's scientific landscape. This unique combination of expertise allows researchers to conduct experiments with a comprehensive perspective, following the entire procedure from start to finish. The integration of molecular biology and bioinformatics provides a holistic understanding of experimental processes and greatly enhances the ability to interpret and analyze results effectively.
 
