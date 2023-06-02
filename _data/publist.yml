@@ -29,14 +29,14 @@
   news1:
 
 - title: "Tackling microbial threats in agriculture with integrative imaging and computational approaches"
-  image: cbsA.png
+  image: Fig4.png
   description:
   authors: NK Singh, A Dutta, G Puccetti, D Croll
   link:
     url: https://doi.org/10.1016/j.csbj.2020.12.018
     display:  Computational and Structural Biotechnology Journal 19, 372-383
   highlight:
-  news1: <a style="color:#FF0000; text-decoration:underline" href="https://www.sciencedirect.com/science/article/pii/S1360138521000613?via%3Dihub">Featured in a Trends in Plant Science Spotlight by Redkar et al (2021)</a><br /><a style="color:#FF0000; text-decoration:underline" href="https://www.ismpmi.org/Community/Interactions/Lists/Posts/Post.aspx?ID=280">Poster Award winner at the 18th Congress of the International Society for Molecular Plant-Microbe Interactions (2019)</a>
+  news1:
 
 - title: "Chromatin dynamics contribute to the spatiotemporal expression pattern of virulence genes in a fungal plant pathogen"
   image: Fig5.png
@@ -46,4 +46,4 @@
     url:  https://doi.org/10.1128/mbio.02343-20
     display:  MBio 11 (5), e02343-20
   highlight:
-  news1: <a style="color:#FF0000" >Awarded Outstanding Poster in the Genomics Theme at the 11th International Mycological Congress (2018)</a>
+  news1:
