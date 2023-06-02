@@ -12,4 +12,4 @@ permalink: /
 
 I am molecular biologist passionate in evolutionary biology and bioinformatics. I integrate bioinformatics with phenomics and molecular experiments to investigate the causes and consequences of phenotypic variation. I am particularly interested in understanding the role of fungicide resistance adaptation to different fungicides classes. 
 
-I am currently a PhD student under the supervision of Dr. [Daniel Croll](http://www.pathogen-genomics.org/) in the Laboratory of Evolutionary Genetics at the University of Neuchâtel in Switzerland and Gabriel Scalliet [Gabriel Scalliet](https://twitter.com/ScallietG) Syngenta fellow. 
+I am currently a [PhD student](https://pathogen-genomics.org/members/guido-puccetti.html) under the supervision of Dr. [Daniel Croll](http://www.pathogen-genomics.org/) in the Laboratory of Evolutionary Genetics at the University of Neuchâtel in Switzerland and Gabriel Scalliet [Gabriel Scalliet](https://twitter.com/ScallietG) Syngenta fellow. 
