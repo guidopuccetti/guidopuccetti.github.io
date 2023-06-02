@@ -8,7 +8,7 @@ permalink: /
 
 ### About me
 
-![]({{ site.url }}{{ site.baseurl }}/images/home/Screenshot 2023-06-02 at 08.32.07.png){: style="width: 350px; float: right; border: 100px; padding:25px"}
+![]({{ site.url }}{{ site.baseurl }}/images/home/Face_1.png){: style="width: 350px; float: right; border: 100px; padding:25px"}
 
 I am molecular biologist passionate in evolutionary biology and bioinformatics. I integrate bioinformatics with phenomics and molecular experiments to investigate the causes and consequences of phenotypic variation.
 
