@@ -1,12 +1,12 @@
 ---
-title: "Guido Puccetti ~ Synergy of Molecular Biology and Bioinformatics:Phenomic Relevance"
+title: "Guido Puccetti ~ Synergy"
 layout: textlay
-excerpt: "Guido Puccetti ~ Synergy of Molecular Biology and Bioinformatics:Phenomic Relevance"
+excerpt: "Guido Puccetti ~ Synergy"
 sitemap: false
 permalink: /Scientific interest/
 ---
 
-### Scientific interest
+### The Synergy of Molecular Biology and Bioinformatics: Phenomic Relevance
 
 ![]({{ site.url }}{{ site.baseurl }}/images/research/canfunnet.png){: style="width: 300px; float: right; border: 25px; padding:25px"}
 
