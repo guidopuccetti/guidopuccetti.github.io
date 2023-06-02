@@ -8,7 +8,7 @@ permalink: /Synergy/
 
 ### The Synergy of Molecular Biology and Bioinformatics: Phenomic Relevance
 
-![]({{ site.url }}{{ site.baseurl }}//images/home/Screenshot 2023-06-02 at 10.15.21.png){: style="width: 300px; float: right; border: 25px; padding:25px"}
+![]({{ site.url }}{{ site.baseurl }}/images/home/Screenshot 2023-06-02 at 10.15.21.png){: style="width: 300px; float: right; border: 25px; padding:25px"}
 
 
 I am a firm believer of the relevance of having molecular biologist armed with a profound understanding of bioinformatics in today's scientific landscape. This unique combination of expertise allows researchers to conduct experiments with a comprehensive and critical perspective, following the entire procedure from start to finish.
